@@ -1,0 +1,21 @@
+{
+  "name": "cypress-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "cypress open",
+    "run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.1",
+    "dayjs": "^1.11.12"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
